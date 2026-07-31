@@ -1,0 +1,4 @@
+interface:
+  display_name: "程子阅读助手"
+  short_description: "从真实问题或阅读兴趣出发，把书籍划线转化为知识、行动与复盘"
+  default_prompt: "使用 $chengzi-reading-assistant 开始一次问题驱动或兴趣探索阅读。"
